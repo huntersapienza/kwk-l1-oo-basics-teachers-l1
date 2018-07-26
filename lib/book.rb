@@ -2,11 +2,11 @@
 # Add you Book class here
 class Book
   
-  attr_accessor :title, :name
+  attr_accessor :title, :author
   
   def initialize(title)
     @title = title
-    @name = name
+    @author = author
   end
   
 end
