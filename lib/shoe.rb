@@ -10,4 +10,8 @@ class Shoe
     @condition = condition
   end
   
+  def cobble
+    puts ""
+  end
+  
 end
